@@ -8,5 +8,6 @@
 Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&color=4b4394)](https://github.com/Frey1a/Frey1a)
 
 <img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/society.gif" width="350"/>
+<img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" >
 
-### ℹ️ About Me
+### ℹAbout Me
