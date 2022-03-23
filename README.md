@@ -19,3 +19,5 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 
 
 [![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact)](https://github.com/Frey1a)
+
