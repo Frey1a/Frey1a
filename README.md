@@ -7,6 +7,6 @@
 
 Freyja to see you here!  ![visitor badge](https://img.shields.io/github/watchers/Frey1a/Frey1a?style=flat)
 
-<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/society.gif" width="450"/>
+<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/society.gif" width="400"/>
 
 ### ℹ️ About Me
