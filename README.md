@@ -1,1 +1,1 @@
-##  Hi there! I'm Hoang Kim Viet Tan (Freyja). <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/Nyancat.gif" width="100">
+##  Hi there! I'm Hoang Kim Viet Tan (Freyja). <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/Nyancat.gif" width="60" padding-bottom="-5">
