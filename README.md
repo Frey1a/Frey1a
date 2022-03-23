@@ -5,6 +5,8 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@frey1a)
 
 
-Freyja to see you here! ![visitor badge](https://img.shields.io/github/watchers/Frey1a/Frey1a?style=social)
+Freyja to see you here!  ![visitor badge](https://img.shields.io/github/watchers/Frey1a/Frey1a?style=flat)
+
+<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/society.gif" width="350"/>
 
 ### ℹ️ About Me
