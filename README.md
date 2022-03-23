@@ -7,7 +7,7 @@
 
 Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&color=4b4394)](https://github.com/Frey1a/Frey1a)
 
-<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/society.gif" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/Codding.gif" width="350"/>
 
 ### <img display="block" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/nyan(nobackground).gif" width="40"> About Me
 
