@@ -11,11 +11,12 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 
 ### <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60"> **About Me**
 >
-- I'm a student of information technology
-- I'm still learning every day and will be doing some small projects soon
-- I really love music, especially symphonies
+- 🎓 I'm a student of information technology
+- 🤔 I'm still learning every day and will be doing some small projects soon
+- ❤️ I really love music, especially symphonies
+- 💬 Ask me about anything [here](https://github.com/Frey1a/Frey1a/issues)
 
-<img align=right width =400 margin-top="16" src="https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura">
 
+[![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
