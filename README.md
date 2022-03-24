@@ -9,7 +9,7 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 
 <img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/Codding.gif" width="350"/>
 
-<h3> <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60"> About Me</h3>
+<h3> <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60">! About Me</h3>
 
 
 
