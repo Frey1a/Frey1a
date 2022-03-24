@@ -15,12 +15,7 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 - I'm still learning every day and will be doing some small projects soon
 - I really love music, especially symphonies
 
+<img align=right  src="https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura">
 
-
-
-
-
-
-[![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
