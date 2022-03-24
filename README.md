@@ -7,7 +7,7 @@
 
 Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&color=4b4394)](https://github.com/Frey1a/Frey1a)
 
-<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/bearcodding.gif" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/bearcodding.gif" width="350"/>
 
 ### <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60"> **About Me**
 >
@@ -17,6 +17,10 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 - 💬 Ask me about anything [here](https://github.com/Frey1a/Frey1a/issues)
 
 
+
+<img align="center" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/nyan(nobackground).gif" width="100"/>
+
 [![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
