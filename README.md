@@ -14,10 +14,10 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 
 
 
-<img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" >
+
 
 
 
 [![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact)](https://github.com/Frey1a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
