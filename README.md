@@ -9,8 +9,11 @@ Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&c
 
 <img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/bearcodding.gif" width="400"/>
 
-<h3> <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60"> About Me</h3>
-
+### <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60"> **About Me**
+>
+- I'm a student of information technology
+- I'm still learning every day and will be doing some small projects soon
+- I really love music, especially symphonies
 
 
 
