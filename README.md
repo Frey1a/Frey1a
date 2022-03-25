@@ -18,13 +18,13 @@
 
 
 
-<img align="center" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/nyan(nobackground).gif" width="100"/> 
+### <img align="center" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/nyan(nobackground).gif" width="100"/> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frey1a)
 
 [![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frey1a)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
