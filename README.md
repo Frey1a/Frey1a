@@ -23,6 +23,7 @@
 📊 **I Spent My Time On:**
 
 </br>
+
 [![Freyja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
 
