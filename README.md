@@ -24,6 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
+[![Freyja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
