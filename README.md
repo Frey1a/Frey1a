@@ -16,7 +16,6 @@
 - ❤️ I really love music, especially symphonies
 - 💬 Ask me about anything [here](https://github.com/Frey1a/Frey1a/issues)
 
-</br>
 
 ### <img align="center" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/nyan(nobackground).gif" width="100"/> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frey1a)
 
@@ -26,13 +25,12 @@
 [![Freyja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
 
-📈 **My GitHub Stats:**
+> 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura"/>
 </p>
 
-</br>
 
 ## 🛠 Tools && Skills
 ### 🖥 FrontEnd
