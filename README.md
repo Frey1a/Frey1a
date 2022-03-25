@@ -16,22 +16,22 @@
 - ❤️ I really love music, especially symphonies
 - 💬 Ask me about anything [here](https://github.com/Frey1a/Frey1a/issues)
 
-
+</br>
 
 ### <img align="center" alt="GIF" src="https://github.com/Frey1a/Frey1a/blob/main/Gif/nyan(nobackground).gif" width="100"/> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frey1a)
 
-[![Freyja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura)](https://github.com/Frey1a)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
-
+📊 **I Spent My Time On:**
 [![Freyja's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+📈 **My GitHub Stats:**
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura"/>
+</p>
+
+</br>
 
 ## 🛠 Tools && Skills
-
-
 ### 🖥 FrontEnd
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
