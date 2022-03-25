@@ -24,9 +24,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🛠 Tools && Skills
 
-### 📚 Programming Language
 
 ### 🖥 FrontEnd
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,16 +46,12 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Other
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frey1a)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
+### 📚 Programming Language
+<!-- ![Python3] -->
+![c++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=cplusplus)
+![lua](https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua)
+![c#](https://img.shields.io/badge/-C%23-684D95?style=for-the-badge&logo=csharp)
 ### ✏ Text Editor & IDE
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 🔧 OS
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
