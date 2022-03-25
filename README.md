@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura)](https://github.com/Frey1a)
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/frey1a)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -48,7 +48,7 @@
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ### 📚 Programming Language
 <!-- ![Python3] -->
-![c++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=cplusplus)
+![c/c++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=cplusplus)
 ![lua](https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua)
 ![c#](https://img.shields.io/badge/-C%23-684D95?style=for-the-badge&logo=csharp)
 ### ✏ Text Editor & IDE
