@@ -7,7 +7,7 @@
 
 #### Freyja to see you here! [![Visitor](https://komarev.com/ghpvc/?username=Frey1a&color=4b4394)](https://github.com/Frey1a)
 
-<img align="right"  padding="0" alt="GIF" src="https://github.com/Frey1a/Frey1a/raw/main/Gif/bearcodding.gif" style="border-radius: 10px;max-width: 100%;border: 1px solid #32cfbf;display: block;overflow: hidden;width: 370px;height: 200px;padding: 0;">
+<img align="right" alt="GIF" src="https://github.com/Frey1a/Frey1a/raw/main/Gif/bearcodding.gif" style="border-radius: 10px;max-width: 100%;border: 1px solid#32cfbf;display: block;width: 370px;height: 200px;padding: 0;margin-left: 20px;">
 
 ### <img src="https://github.com/Frey1a/Frey1a/blob/main/Gif/whitecat.gif" width="60" height="60"> **About Me**
 >
