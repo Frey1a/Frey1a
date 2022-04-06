@@ -28,7 +28,7 @@
 
 > 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura" />
+  <img height="2000em" src="https://github-readme-stats.vercel.app/api?username=Frey1a&show_icons=true&theme=aura" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frey1a&layout=compact&theme=aura"/>
 </p>
 
